@@ -1,0 +1,13 @@
+{
+  "name": "com.ying.ecseffectanimation",
+  "version": "1.0.1",
+  "displayName": "Effect Animation",
+  "description": "Effect Animation",
+  "unity": "6.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+  },
+  "author": {
+    "name": "Ying"
+  }
+}

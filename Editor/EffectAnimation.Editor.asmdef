@@ -1,0 +1,19 @@
+{
+    "name": "EffectAnimationEditor",
+    "rootNamespace": "EffectAnimation",
+    "references": [
+        "GUID:28d251f153d0f3945b31fe5d749be9bf",
+        "GUID:8819f35a0fc84499b990e90a4ca1911f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
