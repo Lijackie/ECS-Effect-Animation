@@ -17,7 +17,7 @@ namespace EffectAnimation
         {
             public override void Bake(EffectAnimationMaterialAuthoring authoring)
             {
-                Entity entity = GetEntity(TransformUsageFlags.Dynamic);
+                Entity entity = GetEntity(TransformUsageFlags.None);
 
                 AddComponent<EffectAnimationMaterialTag>(entity);
                 AddComponentObject(entity, new EffectAnimationMaterial

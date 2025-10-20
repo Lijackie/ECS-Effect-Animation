@@ -24,7 +24,7 @@ namespace EffectAnimation
                     Loop = authoring.Loop,
                     Alpha = authoring.Anim.name + "alpha",
                     Premulitiply = authoring.Anim.name + "premulitiply",
-                    Additive = authoring.Anim.name + "additive"
+                    Additive = authoring.Anim.name + "additive",
                 });
                 AddComponent<EffectAnimationFinish>(entity);
 
